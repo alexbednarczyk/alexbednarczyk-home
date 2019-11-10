@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alexbednarczyk-home/static/css/main.b100e6da.chunk.css",
+    "main.js": "/alexbednarczyk-home/static/js/main.7fb488e0.chunk.js",
+    "main.js.map": "/alexbednarczyk-home/static/js/main.7fb488e0.chunk.js.map",
+    "runtime-main.js": "/alexbednarczyk-home/static/js/runtime-main.50acab17.js",
+    "runtime-main.js.map": "/alexbednarczyk-home/static/js/runtime-main.50acab17.js.map",
+    "static/js/2.3fc1a5fd.chunk.js": "/alexbednarczyk-home/static/js/2.3fc1a5fd.chunk.js",
+    "static/js/2.3fc1a5fd.chunk.js.map": "/alexbednarczyk-home/static/js/2.3fc1a5fd.chunk.js.map",
+    "index.html": "/alexbednarczyk-home/index.html",
+    "precache-manifest.b21e68baae9e16467581c8f1df987aff.js": "/alexbednarczyk-home/precache-manifest.b21e68baae9e16467581c8f1df987aff.js",
+    "service-worker.js": "/alexbednarczyk-home/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/alexbednarczyk-home/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/alexbednarczyk-home/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50acab17.js",
+    "static/js/2.3fc1a5fd.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7fb488e0.chunk.js"
+  ]
+}
