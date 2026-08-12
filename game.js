@@ -23,7 +23,7 @@
     world: 0,
     spinDir: 1,
     walls: [],
-    spawnIn: 0.35;
+    spawnIn: 0.35,
     score: 0,
     best: Number(localStorage.getItem(BEST_KEY) || 0),
     shake: 0,
